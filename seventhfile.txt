@@ -1,0 +1,3 @@
+This is seventhfile for this project
+ 
+ it is created in a trial branch
